@@ -1,0 +1,14 @@
+.carousel {
+    padding: 81px 0;
+    &__inner {
+        width: 750px;
+        margin: 0 auto;
+    }
+    .slick-prev {
+        border: none;
+        img {
+            width: 31px;
+            height: 50px;
+        }
+    }
+}
